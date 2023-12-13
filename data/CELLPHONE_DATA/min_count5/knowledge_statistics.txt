@@ -1,0 +1,7 @@
+Total Brand num 955
+Total Category num 206
+Avg also_bought per product 56.525
+Avg also_view per product 1.240
+Avg bought_together per product 0.810
+Avg brand per product 0.520
+Avg category per product 3.490
